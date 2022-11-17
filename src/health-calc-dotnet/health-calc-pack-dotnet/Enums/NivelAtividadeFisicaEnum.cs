@@ -7,4 +7,5 @@
         BastanteAtivo = 2,
         ExtremamenteAtivo = 3
     }
+
 }

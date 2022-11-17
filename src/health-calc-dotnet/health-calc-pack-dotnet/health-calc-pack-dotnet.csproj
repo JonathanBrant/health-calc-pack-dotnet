@@ -8,7 +8,7 @@
     <PackageIcon>health-calc.png</PackageIcon>
     <Description>Biblioteca para Cálculos de Saúde (IMC e Macronutrientes)</Description>
     <PackageId>health-calc-pack-dotnet-jbrant</PackageId>
-    <Version>1.0.2</Version>
+    <Version>1.2.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
