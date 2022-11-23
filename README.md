@@ -50,8 +50,7 @@ O cálculo de macronutrientes é realizada com base na estratégia sugerida
  2g de gordura por kg<br/>
  4g de carboidrato por kg
 
-- Maintenance
-<br/>
+- Maintenance<br/>
  2g de proteina por kg<br/>
  1g de gordura por kg<br/>
  5g de carboidrato por kg
